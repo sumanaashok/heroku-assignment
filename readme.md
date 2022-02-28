@@ -1,7 +1,11 @@
 # Project Setup
 
-[![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml)
 
+[Build Workflow](https://github.com/sb232/heroku-assignment/actions/workflows/test-build-deploy.yml)
+
+![Heroku](https://pyheroku-badge.herokuapp.com/?app=sumana-app&style=flat)
+
+[Heroku App](https://sumana-app.herokuapp.com/)
 ## Setting up CI/CD
 
 1. Clone this repo to your local (DO NOT FORK THIS REPO, IF YOU DO YOU HAVE TO ENABLE ACTIONS BEFORE ANYTHING RUNS)
@@ -38,4 +42,4 @@
 
 .pylintrc is the config for pylint .coveragerc is the config for coverage setup.py is a config file for pytest
 
-[My App](https://sumana-app.herokuapp.com/)
+
