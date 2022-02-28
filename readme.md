@@ -5,7 +5,7 @@
 
 [comment]: <> (![Heroku]&#40;https://pyheroku-badge.herokuapp.com/?app=sumana-app&style=flat&#41;&#40;https://github.com/sb232/heroku-assignment/actions/workflows/test-build-deploy.yml&#41;)
 
-[![Production Workflow](https://pyheroku-badge.herokuapp.com/?app=sumana-app&style=flat)](https://github.com/sb232/heroku-assignment/actions/workflows/test-build-deploy.yml)
+[![Production Workflow](https://pyheroku-badge.herokuapp.com/?app=sumana-app&style=flat)](https://github.com/sumanaashok/heroku-assignment/actions/workflows/test-build-deploy.yml)
 
 [Heroku App](https://sumana-app.herokuapp.com/)
 ## Setting up CI/CD
