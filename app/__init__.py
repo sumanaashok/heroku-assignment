@@ -1,6 +1,7 @@
 """A simple flask web app"""
 from flask import Flask, render_template
-
+from controllers.index_controller import IndexController
+from controllers.about_controller import AboutController
 
 def create_app():
     """Create and configure an instance of the Flask application."""
@@ -9,9 +10,9 @@ def create_app():
 
     @app.route("/")
     def index():
-        return render_template('index.html')
+        return IndexController.get()
 
     @app.route("/about")
     def about():
-        return render_template('about.html')
+        return AboutController.get()
     return app
