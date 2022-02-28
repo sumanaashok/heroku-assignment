@@ -6,5 +6,5 @@ from  . controller import ControllerBase
 class IndexController(ControllerBase):
     @staticmethod
     def get():
-        name = "Sumana Ashok's"
+        name = "Sumana Ashoks"
         return render_template('index.html', name=name)

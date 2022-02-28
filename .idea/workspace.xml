@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4f4810-911c-48d6-91ca-f3b504eda665" name="Changes" comment="readme updated with build icon">
+    <list default="true" id="6a4f4810-911c-48d6-91ca-f3b504eda665" name="Changes" comment="Changed font size">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/about_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/about_controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controllers/index_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/index_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/homepage_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/page_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646009442951</updated>
-      <workItem from="1646009444366" duration="3810000" />
+      <workItem from="1646009444366" duration="4041000" />
     </task>
     <task id="LOCAL-00001" summary="test updated">
       <created>1646010042296</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646012833071</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed font size">
+      <created>1646013702416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646013702416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test updated" />
     <MESSAGE value="readme updated with build icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme updated with build icon" />
+    <MESSAGE value="Changed font size" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed font size" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/heroku_assignment$heroku_assignment.coverage" NAME="heroku-assignment Coverage Results" MODIFIED="1646009945535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
